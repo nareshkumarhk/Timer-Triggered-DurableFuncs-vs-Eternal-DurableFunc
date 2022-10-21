@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DurableFuncsWithTimer": {
+      "commandName": "Project",
+      "commandLineArgs": "start --port 7267",
+      "launchBrowser": false
+    }
+  }
+}
